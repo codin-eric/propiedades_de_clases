@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     venta2 = Vendedor()
     precio = venta2.calcular_venta_promocion(20, 0.5)
-    print(precio)
+    print(precio)s
 
     Vendedor.dolar = 65
     venta1 = Vendedor()
